@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=OrderingSystem
+comment0.text=\n\ Class\ to\ manage\ the\ pizza\ order.\n\ @author\ 817852\n
+comment1.params=
+comment1.target=OrderingSystem()
+comment1.text=\n\ Constructor\ for\ the\ ordering\ system.\n
+comment2.params=
+comment2.target=void\ drawOrderScreen()
+comment2.text=\n\ Method\ to\ draw\ the\ outline\ of\ the\ order\ screen.\n
+comment3.params=
+comment3.target=void\ startOrdering()
+comment3.text=\n\ Method\ to\ manage\ the\ ordering,\ drawing\ and\ calculating\ of\ the\ pizzas.\n
+numComments=4

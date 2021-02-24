@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Topping
+comment0.text=\n\ This\ class\ draws\ the\ first\ topping\ and\ second\ topping\ on\ the\ pizza.\n\n\ @author\ 817852\n\ @version\ 17\ March\ 2018\n
+comment1.params=win\ topX\ topY
+comment1.target=Topping(Canvas,\ double,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Toppings\n
+comment2.params=
+comment2.target=void\ drawFirstToppingTwo()
+comment2.text=\n\ Method\ for\ drawing\ the\ first\ topping\ as\ Bacon\n
+comment3.params=
+comment3.target=void\ drawFirstToppingFive()
+comment3.text=\n\ Method\ for\ drawing\ the\ first\ topping\ as\ Jalapeno\ Slice\n
+comment4.params=
+comment4.target=void\ drawSecondToppingTwo()
+comment4.text=\n\ Method\ for\ drawing\ the\ second\ topping\ as\ Bacon\n
+comment5.params=
+comment5.target=void\ drawSecondToppingFive()
+comment5.text=\n\ Method\ for\ drawing\ the\ second\ topping\ as\ Jalapeno\n
+comment6.params=firstTopping
+comment6.target=void\ setFirstTopping(java.lang.String)
+comment6.text=\n\ Method\ for\ setting\ first\ topping\ based\ on\ users\ input\n\ \n\ @param\ \ \ \ \ \ \ Takes\ the\ users\ first\ topping\n
+comment7.params=secondTopping
+comment7.target=void\ setSecondTopping(java.lang.String)
+comment7.text=\n\ Method\ for\ setting\ second\ topping\ based\ on\ users\ input\n\ \n\ @param\ \ \ \ \ \ \ Takes\ the\ users\ second\ topping\n
+numComments=8

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CalculateCost
+comment0.text=\n\ The\ CalculateCost\ class\ will\ calculate\ the\ overall\ cost\ of\ the\ pizza\ order.\n\n\ @author\ 817852\n\ @version\ 13\ March\ 2018\n
+comment1.params=
+comment1.target=CalculateCost()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CalculateCost\n
+comment2.params=size
+comment2.target=double\ calculateBaseSize(java.lang.String)
+comment2.text=\n\ Method\ for\ the\ baseSize\ calculation.\n\ \n\ @param\ \ \ \ \ \ \ size\ in\ string\ format\n\ @return\ \ \ \ \ \ base\ size\ in\ double\ format\n
+comment3.params=base
+comment3.target=double\ calculateBaseCost(java.lang.String)
+comment3.text=\n\ This\ method\ calculates\ the\ cost\ of\ the\ pizza\ base\n\n\ @param\ \ \ \ \ The\ type\ of\ base\ the\ pizza\ has\n\ @return\ \ \ \ The\ cost\ of\ that\ base\n
+comment4.params=sauce
+comment4.target=double\ calculateSauceCost(java.lang.String)
+comment4.text=\n\ Method\ for\ calculating\ the\ cost\ of\ the\ pizza\ sauce\n\ \n\ @param\ \ \ \ \ \ The\ sauce\ the\ pizza\ has\ \n\ @return\ \ \ \ \ The\ cost\ of\ the\ sauce\n
+comment5.params=firstTopping
+comment5.target=double\ calculateFirstTopping(java.lang.String)
+comment5.text=\n\ This\ method\ calculates\ the\ cost\ of\ the\ first\ topping\ on\ the\ pizza\n\n\ @param\ \ \ \ \ The\ name\ of\ the\ first\ topping\n\ @return\ \ \ \ the\ cost\ of\ that\ topping\ multiplied\ by\ 5\n
+comment6.params=secondTopping
+comment6.target=double\ calculateSecondTopping(java.lang.String)
+comment6.text=\n\ This\ method\ calculates\ the\ cost\ of\ the\ first\ topping\ on\ the\ pizza\n\n\ @param\ \ \ \ \ The\ name\ of\ the\ first\ topping\n\ @return\ \ \ \ the\ cost\ of\ that\ topping\ multiplied\ by\ 4\n
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ToppingFive
+comment0.text=\n\ This\ class\ draws\ topping\ Five\n\n\ @author\ 817852\n\ @version\ 18\ March\ 2018\n
+comment1.params=win\ topX\ topY
+comment1.target=ToppingFive(Canvas,\ double,\ double)
+comment1.text=\n\ Constructor\ for\ Topping\ Five.\n\ @param\ win\ the\ window\ to\ draw\ the\ topping\ on\n\ @param\ topX\ the\ top-left\ x\ coordinate\ for\ the\ section\ of\ screen\ to\ draw\ pizza\ on\n\ @param\ topY\ the\ top-left\ y\ coordinate\ for\ the\ section\ of\ screen\ to\ draw\ pizza\ on\n
+comment2.params=
+comment2.target=void\ drawToppingFive()
+comment2.text=\n\ Method\ for\ drawing\ the\ fifth\ topping\ on\ the\ canvas\n
+numComments=3

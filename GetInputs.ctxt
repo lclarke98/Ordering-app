@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=GetInputs
+comment0.text=\n\ Write\ a\ description\ of\ class\ GetInputs\ here.\n\n\ @author\ 817852\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=GetInputs()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ GetInputs\n
+comment2.params=
+comment2.target=int\ getNumberOfPizzas()
+comment2.text=\n\ Method\ to\ get\ the\ number\ of\ pizzas\ that\ is\ required\n\ @return\ \ \ \ \ \ The\ number\ of\ pizzas\n
+comment3.params=
+comment3.target=java.lang.String\ getPizzaSize()
+comment3.text=\n\ Method\ for\ getting\ the\ pizzas\ size\ based\ on\ users\ input\n\ \n@return\ \ \ \ \ \ \ Returns\ pizzaSize\n
+comment4.params=
+comment4.target=java.lang.String\ getCrust()
+comment4.text=\n\ Method\ for\ getting\ the\ pizzas\ crust\ based\ on\ users\ input\n\ \n@return\ \ \ \ \ \ \ Returns\ pizzaCrust\n
+comment5.params=
+comment5.target=java.awt.Color\ getSauce()
+comment5.text=\n\ Method\ for\ getting\ the\ pizzas\ sauce\ based\ on\ users\ input\n\ \n@return\ \ \ \ \ \ \ Returns\ pizzaSauce\n
+comment6.params=
+comment6.target=int\ getNumToppings()
+comment6.text=\n\ Method\ for\ getting\ the\ number\ of\ toppings\ based\ on\ users\ input\n\ \n@return\ \ \ \ \ \ \ Returns\ number\ of\ toppings\n
+comment7.params=
+comment7.target=java.lang.String\ getTopping()
+comment7.text=\n\ Method\ for\ getting\ the\ pizzas\ toppings\ based\ on\ users\ input\n\ \n@return\ \ \ \ \ \ \ Returns\ the\ pizzas\ toppings\n
+numComments=8
